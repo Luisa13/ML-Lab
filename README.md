@@ -12,3 +12,10 @@ Artificial Neural Network  | They are inspired by the structure and/or function 
 Dimensionality Reduction   | Seek and exploit the inherent structure in the data, to summarize or describe data using less information.   |
 Deep Learning              | A modern update to Artificial Neural Networks that exploit abundant cheap computation|[D.L.](https://github.com/Luisa13/ML-Lab/tree/main/Deep%20Learning)
 Instance-based             | Decision problem with instances or examples of training data that are deemed important or required to the model |
+
+
+
+
+OTHER REFERENCES
+* [openCV projects](https://data-flair.training/blogs/sign-language-recognition-python-ml-opencv/)
+* [python projects](https://data-flair.training/blogs/python-project-ideas/)

@@ -2,6 +2,36 @@
 
 This is a Machine Learning laboratory to explore some concept through exercises, small projects and tutorials :)
 
+### Classic ML structure
+```
+Classic ML
+|
+|_________ Supervised
+|          |____________ Classification
+|          |            |____________ Naive Bayes
+|          |            |____________ KNN
+|          |            |____________ Decision Trees
+|          |            |____________ SVN
+|          |            |____________ Logistic Regression
+|          |            
+|          |____________ Regression
+|                       |____________ Linear Regression
+|          
+|
+|_________ Unupervised
+           |____________ Clustering
+           |             |_____________ K-Means
+           |             
+           |____________ Dimension Reduction
+           |             |___________________ PCA
+           |             |___________________ LDA
+           |             
+           |____________ Pattern Search
+
+```
+
+### Index
+Index by topic
 
 Topic                      | Description                                                                          | Link
 ---------------------------|--------------------------------------------------------------------------------------|--------------

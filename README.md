@@ -1,4 +1,4 @@
-# ML-Lab
+# Machine Learning Laboratory
 
 This is a Machine Learning laboratory to explore some concept through exercises, small projects and tutorials :)
 
